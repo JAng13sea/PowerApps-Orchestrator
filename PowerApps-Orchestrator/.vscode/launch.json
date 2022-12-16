@@ -14,7 +14,8 @@
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "tenant": "xpeditiondemo1.onmicrosoft.com"
+            "tenant": "xpeditiondemo1.onmicrosoft.com",
+            "forceUpgrade": true
         }
     ]
 }

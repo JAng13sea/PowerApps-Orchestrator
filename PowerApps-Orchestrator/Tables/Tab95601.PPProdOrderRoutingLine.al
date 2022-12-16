@@ -1,6 +1,6 @@
 table 95601 "PAProd. Order Routing Line"
 {
-    Caption = 'Prod. Order Routing Line';
+    Caption = 'PA Prod. Order Routing Line';
     DrillDownPageID = "Prod. Order Routing";
     LookupPageID = "Prod. Order Routing";
 
